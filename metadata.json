@@ -1,0 +1,6 @@
+{
+  "name": "MedLab Quiz & Exam Prep",
+  "description": "Comprehensive 120-question study bank and exam simulator for Medical Laboratory Science, Biosafety levels, Glassware, Lab Safety, Staining, and Clinical Calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
